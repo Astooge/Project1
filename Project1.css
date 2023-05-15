@@ -1,0 +1,43 @@
+.one{
+    color: red;
+    font-size: 5rem;
+    margin-top: 3rem;
+    margin-left: 15rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.two{
+    color: white;
+    font-size: 2.5rem;
+    margin-top: 5rem;
+    margin-left: 11rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+body{
+    background-color: black;
+}
+
+.myButton {
+	box-shadow:inset 11px 4px 0px -15px #b54b3a;
+	background-color:#a73f2d;
+	border:1px solid #241d13;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Times New Roman;
+	font-size:20px;
+	font-weight:bold;
+	font-style:italic;
+	padding:20px 15px;
+	text-decoration:none;
+	text-shadow:-3px 1px 24px #7a2a1d;
+    margin-left: 17rem;
+}
+.myButton:hover {
+	background-color:#b34332;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
